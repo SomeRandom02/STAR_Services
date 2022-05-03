@@ -1,9 +1,22 @@
 .topBar {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     position: fixed;
     top: 0;
     width: 100%;
     overflow: hidden;
     background-color: aliceblue;
+}
+
+.nav {
+    margin-right: 2%;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    margin-left: 0.5%;
+    font-size: 1.4em;
+    height: 8vh;
 }

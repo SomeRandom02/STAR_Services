@@ -13,3 +13,8 @@ code {
 }
 
 html{scroll-behavior: smooth;}
+
+#home, #webpages, #techrepair {
+  border: 1px solid red;
+  padding-top: 6vh;
+}

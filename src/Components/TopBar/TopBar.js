@@ -6,8 +6,12 @@ import './TopBar.css';
 const TopBar = () => {
     return(
         <div className="topBar">
-            <Logo />
+            <div className="logo">
+            <Logo />    
+            </div>
+            <div className="nav">
             <NavBar />
+            </div>
         </div>
 
 

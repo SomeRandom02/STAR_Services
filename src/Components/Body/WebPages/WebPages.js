@@ -4,7 +4,7 @@ import './WebPages.css'
 const WebPages = () => {
     return(
         <section id="webpages">
-            <div className = 'bg-dark-green ba bw1' style={{display: 'flex', justifyContent: 'center', textAlign: 'center'}}>
+            <div style={{display: 'flex', justifyContent: 'center', textAlign: 'center'}}>
                 <h1 >Hello, learn about our Web Pages offerings. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
                     eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation 
                     ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit 
