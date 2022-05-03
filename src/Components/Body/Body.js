@@ -1,6 +1,6 @@
-import Home from "../Home/Home";
-import TechRepair from "../TechRepair/TechRepair"
-import WebPages from "../WebPages/WebPages"
+import Home from "./Home/Home";
+import TechRepair from "./TechRepair/TechRepair"
+import WebPages from "./WebPages/WebPages"
 
 const Body = () => {
     return(

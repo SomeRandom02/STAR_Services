@@ -1,6 +1,6 @@
 import react from "react";
-import Logo from "../Logo/Logo";
-import NavBar from "../NavBar/NavBar";
+import Logo from "./Logo/Logo";
+import NavBar from "./NavBar/NavBar";
 import './TopBar.css';
 
 const TopBar = () => {
