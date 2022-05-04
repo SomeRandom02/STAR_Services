@@ -7,10 +7,10 @@ const TopBar = () => {
     return(
         <div className="topBar">
             <div className="logo">
-            <Logo />    
-            </div>
-            <div className="nav">
-            <NavBar />
+                <Logo />    
+            </div> 
+            <div className="nav" >
+                <NavBar />
             </div>
         </div>
 
