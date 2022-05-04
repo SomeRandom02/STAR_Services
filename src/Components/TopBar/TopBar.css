@@ -20,3 +20,8 @@
     font-size: 1.4em;
     height: 8vh;
 }
+
+.logo a {
+    text-decoration: none;
+    color: black;
+}
